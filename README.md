@@ -43,7 +43,7 @@ Now,
 open up localhost:
 ```
 
-#Techstack Used:
+# Techstack Used:
 
 Python
 LangChain
